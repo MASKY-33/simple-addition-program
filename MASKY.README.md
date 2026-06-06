@@ -1,7 +1,7 @@
 # Simple Addition Program
 This program asks the user to enter two numbers and then prints the sum of those numbers.
 
-# Features
+## Features
 - Asks the user for a first number
 - Asks the user for a second number
 - Adds both numbers together
